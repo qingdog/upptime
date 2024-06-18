@@ -9,17 +9,23 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+    method: POST
   - name: Google DNS
     check: "tcp-ping"
     url: 8.8.8.8
     port: 53
+  - name: POST
+    url: https://example.com
+    method: POST
+    headers:
+      - "Authorization: Bearer $SECRET_SITE_2"
+      - "Content-Type: application/json"
+    body: '{ "password": "hello" }'
+  - name: Google DNS
+    check: "tcp-ping"
+    url: dns.google
+    port: 53
+    ipv6: true
 
 status-website:
   # 添加您的自定义域名，或者如果您没有域名，请删除 cname 行
