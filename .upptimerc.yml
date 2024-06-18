@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: qingdog # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -18,10 +18,10 @@ sites:
     ipv6: true
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # 添加您的自定义域名，或者如果您没有域名，请删除 cname 行
+  # 如果你没有自定义域名，请取消注释 `baseUrl` 行，然后在那里添加你的 repo 名称
+  #cname: demo.upptime.js.org
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
