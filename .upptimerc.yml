@@ -17,19 +17,19 @@ sites:
     check: "tcp-ping"
     url: 8.8.8.8
     port: 53
-  - name: POST
+  - name: ali DNS
+    check: "tcp-ping"
+    url: dns.alidns.com
+    port: 53
+    ipv6: true
+  - name: POST https://example.com
     url: https://example.com
     method: POST
     headers:
       - "Authorization: Bearer $SECRET_SITE_2"
       - "Content-Type: application/json"
     body: '{ "password": "hello" }'
-  - name: Google DNS
-    check: "tcp-ping"
-    url: dns.google
-    port: 53
-    # ipv6: true
-  - name: 维基百科
+  - name: zh 维基百科
     url: https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
     __dangerous__body_down_if_text_missing: '维基百科，自由的百科全书'
 
