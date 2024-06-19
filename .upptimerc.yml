@@ -17,10 +17,8 @@ sites:
     check: "tcp-ping"
     url: 8.8.8.8
     port: 53
-  - name: ali DNS
-    check: "tcp-ping"
-    url: dns.alidns.com
-    port: 53
+  - name: test-ipv6
+    url: https://test-ipv6.com
     ipv6: true
   - name: POST https://example.com
     url: https://example.com
