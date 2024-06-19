@@ -11,19 +11,24 @@ sites:
       - 200
       - 201
       - 401
+    icon: https://github.com/favicon.ico
   - name: Wikipedia
-    url: https://en.wikipedia.org
+    url: https://en.wikipedia.org/favicon.ico
     __dangerous__body_down: '404 not found'
+    icon: https://github.com/favicon.ico
   - name: Hacker News
     url: https://news.ycombinator.com
     method: POST
+    icon: https://github.com/favicon.ico
   - name: Google DNS
     check: "tcp-ping"
     url: 8.8.8.8
     port: 53
+    icon: https://github.com/favicon.ico
   - name: test-ipv6
     url: https://test-ipv6.com
     ipv6: true
+    icon: https://test-ipv6.com/images/favicon.ico
   - name: POST https://example.com
     url: https://example.com
     method: POST
@@ -31,9 +36,11 @@ sites:
       - "Authorization: Bearer $SECRET_SITE_2"
       - "Content-Type: application/json"
     body: '{ "password": "hello" }'
-  - name: zh 维基百科
+    icon: 
+  - name: 中文维基百科
     url: https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
     __dangerous__body_down_if_text_missing: '维基百科，自由的百科全书'
+    icon: https://zh.wikipedia.org/favicon.ico
 
 status-website:
   # Available themes are light, dark, night or ocean.
