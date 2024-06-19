@@ -22,7 +22,7 @@ sites:
     check: "tcp-ping"
     url: 8.8.8.8
     port: 53
-    icon: https://github.com/favicon.ico
+    icon: https://upptime.js.org/img/icon.svg
   - name: test-ipv6
     url: https://test-ipv6.com
     ipv6: true
