@@ -36,6 +36,8 @@ sites:
     __dangerous__body_down_if_text_missing: '维基百科，自由的百科全书'
 
 status-website:
+  # Available themes are light, dark, night or ocean.
+  theme: night
   # 添加您的自定义域名，或者如果您没有域名，请删除 cname 行
   # 如果你没有自定义域名，请取消注释 `baseUrl` 行，然后在那里添加你的 repo 名称
   #cname: demo.upptime.js.org
