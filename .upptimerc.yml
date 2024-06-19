@@ -7,6 +7,10 @@ sites:
   - name: Google
     url: https://www.google.com
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
   - name: Wikipedia
     url: https://en.wikipedia.org
     __dangerous__body_down: '404 not found'
