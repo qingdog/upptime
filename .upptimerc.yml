@@ -11,11 +11,9 @@ sites:
       - 200
       - 201
       - 401
-    icon: https://github.com/favicon.ico
   - name: Wikipedia
-    url: https://en.wikipedia.org/favicon.ico
+    url: https://en.wikipedia.org
     __dangerous__body_down: '404 not found'
-    icon: https://github.com/favicon.ico
   - name: Hacker News
     url: https://news.ycombinator.com
     method: POST
@@ -37,7 +35,7 @@ sites:
       - "Content-Type: application/json"
     body: '{ "password": "hello" }'
     icon: 
-  - name: 中文维基百科
+  - name: zh-wikipedia
     url: https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
     __dangerous__body_down_if_text_missing: '维基百科，自由的百科全书'
     icon: https://zh.wikipedia.org/favicon.ico
