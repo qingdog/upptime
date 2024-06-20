@@ -47,13 +47,16 @@ status-website:
   # 如果你没有自定义域名，请取消注释 `baseUrl` 行，然后在那里添加你的 repo 名称
   #cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://upptime.js.org/img/icon.svg
+  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # favicon: https://example.com/favicon.png
+  faviconSvg: https://upptime.js.org/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /
+      href: ./
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
