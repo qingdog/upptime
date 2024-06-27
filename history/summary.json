@@ -40,18 +40,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://github.com/favicon.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 295,
-    "timeDay": 284,
-    "timeWeek": 278,
+    "timeDay": 296,
+    "timeWeek": 281,
     "timeMonth": 295,
     "timeYear": 295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-27": 0
+    }
   },
   {
     "name": "Google DNS",
