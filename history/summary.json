@@ -79,9 +79,9 @@
     "url": "https://test-ipv6.com",
     "icon": "https://test-ipv6.com/images/favicon.ico",
     "slug": "test-ipv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -90,7 +90,9 @@
     "timeWeek": 233,
     "timeMonth": 284,
     "timeYear": 290,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-01": 0
+    }
   },
   {
     "name": "POST https://example.com",
