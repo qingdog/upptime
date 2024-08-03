@@ -99,7 +99,7 @@
     "url": "https://example.com",
     "icon": "https://upptime.js.org/img/icon.svg",
     "slug": "post-https-example-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -110,7 +110,9 @@
     "timeWeek": 173,
     "timeMonth": 148,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-03": 0
+    }
   },
   {
     "name": "zh-wikipedia",
