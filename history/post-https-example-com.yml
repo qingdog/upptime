@@ -1,7 +1,7 @@
 url: https://example.com
-status: down
-code: 502
-responseTime: 8311
-lastUpdated: 2024-08-07T14:28:48.174Z
+status: up
+code: 200
+responseTime: 7637
+lastUpdated: 2024-08-07T14:40:28.820Z
 startTime: 2024-06-18T10:10:48.358Z
 generator: Upptime <https://github.com/upptime/upptime>
