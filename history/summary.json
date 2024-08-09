@@ -80,7 +80,7 @@
     "url": "https://test-ipv6.com",
     "icon": "https://test-ipv6.com/images/favicon.ico",
     "slug": "test-ipv6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -92,6 +92,7 @@
     "timeMonth": 283,
     "timeYear": 282,
     "dailyMinutesDown": {
+      "2024-08-09": 0,
       "2024-08-01": 20
     }
   },
