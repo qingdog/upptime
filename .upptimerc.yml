@@ -27,14 +27,14 @@ sites:
     url: https://test-ipv6.com
     ipv6: true
     icon: https://test-ipv6.com/images/favicon.ico
-  - name: POST https://example.com
-    url: https://example.com
+  - name: POST请求百度（预期为200网页不存在）
+    url: https://www.baidu.com
     method: POST
     headers:
       - "Authorization: Bearer $SECRET_SITE_2"
       - "Content-Type: application/json"
     body: '{ "password": "hello" }'
-    icon: https://upptime.js.org/img/icon.svg
+    icon: https://www.baidu.com/favicon.ico
   - name: zh-wikipedia
     url: https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
     __dangerous__body_down_if_text_missing: '维基百科，自由的百科全书'
