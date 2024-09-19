@@ -10,10 +10,13 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
+      - 301
+      - 302
+      - 303
       - 401
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-    __dangerous__body_down: '404 not found'
+  - name: qingli.flowus.cn文档接口
+    url: https://qingli.flowus.cn/api/docs/3910f52e-bdd0-4e93-b38f-4396981ac5ff
+    __dangerous__body_down: '{"code":200,"data":'
   - name: Hacker News
     url: https://news.ycombinator.com
     method: POST
@@ -23,21 +26,21 @@ sites:
     url: 8.8.8.8
     port: 53
     icon: https://upptime.js.org/img/icon.svg
-  - name: test-ipv6
-    url: https://test-ipv6.com
-    ipv6: true
-    icon: https://test-ipv6.com/images/favicon.ico
-  - name: POST请求百度（预期为200网页不存在）
+  - name: 测试百度ipv6
     url: https://www.baidu.com
+    ipv6: true
+    icon: https://www.baidu.com/favicon.ico
+  - name: POST请求维基百科
+    url: https://zh.wikipedia.org/
     method: POST
     headers:
       - "Authorization: Bearer $SECRET_SITE_2"
       - "Content-Type: application/json"
     body: '{ "password": "hello" }'
-    icon: https://www.baidu.com/favicon.ico
-  - name: zh-wikipedia
-    url: https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
-    __dangerous__body_down_if_text_missing: '维基百科，自由的百科全书'
+    icon: https://zh.wikipedia.org/static/favicon/wikipedia.ico
+  - name: 帮助:如何访问维基百科
+    url: https://zh.wikipedia.org/wiki/Help:%E5%A6%82%E4%BD%95%E8%AE%BF%E9%97%AE%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91
+    __dangerous__body_down_if_text_missing: '帮助:如何访问维基百科'
     icon: https://zh.wikipedia.org/favicon.ico
 
 status-website:
