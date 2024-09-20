@@ -16,7 +16,7 @@ sites:
       - 401
   - name: qingli.flowus.cn文档接口
     url: https://qingli.flowus.cn/api/docs/3910f52e-bdd0-4e93-b38f-4396981ac5ff
-    __dangerous__body_down: '{"code":200,'
+    __dangerous__body_down: 30000
   - name: Hacker News
     url: https://news.ycombinator.com
     method: POST
