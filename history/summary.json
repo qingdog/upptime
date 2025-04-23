@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qingli.flowus.cn.ico",
     "slug": "qingli-flowus-cn",
     "status": "up",
-    "uptime": "73.63%",
+    "uptime": "73.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "73.63%",
+    "uptimeYear": "73.71%",
     "time": 1849,
     "timeDay": 4190,
     "timeWeek": 2125,
@@ -165,10 +165,10 @@
     "url": "https://zh.wikipedia.org/",
     "icon": "https://zh.wikipedia.org/static/favicon/wikipedia.ico",
     "slug": "post",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 567,
@@ -177,6 +177,7 @@
     "timeMonth": 519,
     "timeYear": 567,
     "dailyMinutesDown": {
+      "2025-04-23": 2,
       "2024-09-20": 61,
       "2024-09-19": 841
     }
@@ -186,9 +187,9 @@
     "url": "https://zh.wikipedia.org/wiki/Help:%E5%A6%82%E4%BD%95%E8%AE%BF%E9%97%AE%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91",
     "icon": "https://zh.wikipedia.org/favicon.ico",
     "slug": "how-to-access-wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
@@ -198,6 +199,7 @@
     "timeMonth": 27,
     "timeYear": 46,
     "dailyMinutesDown": {
+      "2025-04-23": 0,
       "2024-09-20": 61,
       "2024-09-19": 814
     }
