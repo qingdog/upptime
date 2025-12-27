@@ -29,11 +29,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qingli.flowus.cn.ico",
     "slug": "qingli-flowus-cn",
     "status": "up",
-    "uptime": "87.42%",
+    "uptime": "87.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "98.99%",
-    "uptimeYear": "91.61%",
+    "uptimeYear": "91.63%",
     "time": 2017,
     "timeDay": 1889,
     "timeWeek": 1954,
@@ -132,8 +132,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   },
   {
