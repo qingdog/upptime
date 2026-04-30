@@ -13,8 +13,8 @@
     "time": 297,
     "timeDay": 125,
     "timeWeek": 104,
-    "timeMonth": 125,
-    "timeYear": 351,
+    "timeMonth": 126,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2025-12-28": 15,
       "2025-10-28": 32,
@@ -38,8 +38,8 @@
     "time": 2054,
     "timeDay": 1627,
     "timeWeek": 1732,
-    "timeMonth": 1828,
-    "timeYear": 2101,
+    "timeMonth": 1832,
+    "timeYear": 2102,
     "dailyMinutesDown": {
       "2026-04-15": 18,
       "2026-03-28": 68,
@@ -130,16 +130,16 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://github.com/favicon.ico",
     "slug": "hacker-news",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "16.27%",
-    "uptimeWeek": "12.58%",
-    "uptimeMonth": "28.56%",
-    "uptimeYear": "94.05%",
+    "status": "down",
+    "uptime": "98.97%",
+    "uptimeDay": "19.17%",
+    "uptimeWeek": "13.17%",
+    "uptimeMonth": "28.94%",
+    "uptimeYear": "94.08%",
     "time": 385,
-    "timeDay": 285,
-    "timeWeek": 308,
-    "timeMonth": 291,
+    "timeDay": 257,
+    "timeWeek": 307,
+    "timeMonth": 292,
     "timeYear": 387,
     "dailyMinutesDown": {
       "2026-04-30": 1148,
@@ -172,7 +172,7 @@
       "2026-04-03": 743,
       "2026-04-02": 926,
       "2026-04-01": 732,
-      "2026-03-31": 289
+      "2026-03-31": 124
     }
   },
   {
@@ -207,8 +207,8 @@
     "time": 2418,
     "timeDay": 2537,
     "timeWeek": 2597,
-    "timeMonth": 2609,
-    "timeYear": 2429,
+    "timeMonth": 2612,
+    "timeYear": 2431,
     "dailyMinutesDown": {}
   },
   {
@@ -225,8 +225,8 @@
     "time": 542,
     "timeDay": 917,
     "timeWeek": 482,
-    "timeMonth": 516,
-    "timeYear": 547,
+    "timeMonth": 511,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2025-05-24": 32
     }
@@ -245,7 +245,7 @@
     "time": 71,
     "timeDay": 135,
     "timeWeek": 38,
-    "timeMonth": 102,
+    "timeMonth": 98,
     "timeYear": 81,
     "dailyMinutesDown": {
       "2025-05-24": 32
