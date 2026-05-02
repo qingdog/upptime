@@ -130,15 +130,15 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://github.com/favicon.ico",
     "slug": "hacker-news",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "11.65%",
-    "uptimeWeek": "14.95%",
-    "uptimeMonth": "26.97%",
-    "uptimeYear": "93.74%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "14.76%",
+    "uptimeWeek": "15.40%",
+    "uptimeMonth": "27.07%",
+    "uptimeYear": "93.81%",
     "time": 384,
-    "timeDay": 250,
-    "timeWeek": 280,
+    "timeDay": 242,
+    "timeWeek": 277,
     "timeMonth": 288,
     "timeYear": 385,
     "dailyMinutesDown": {
@@ -172,8 +172,7 @@
       "2026-04-05": 1078,
       "2026-04-04": 803,
       "2026-04-03": 743,
-      "2026-04-02": 926,
-      "2026-04-01": 321
+      "2026-04-02": 926
     }
   },
   {
