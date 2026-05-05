@@ -30,7 +30,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qingli.flowus.cn.ico",
     "slug": "qingli-flowus-cn",
     "status": "up",
-    "uptime": "90.06%",
+    "uptime": "90.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -130,15 +130,15 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://github.com/favicon.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "28.50%",
-    "uptimeWeek": "23.81%",
-    "uptimeMonth": "25.80%",
-    "uptimeYear": "93.55%",
+    "uptimeDay": "41.02%",
+    "uptimeWeek": "29.04%",
+    "uptimeMonth": "26.48%",
+    "uptimeYear": "93.57%",
     "time": 383,
-    "timeDay": 321,
-    "timeWeek": 277,
+    "timeDay": 359,
+    "timeWeek": 279,
     "timeMonth": 285,
     "timeYear": 382,
     "dailyMinutesDown": {
@@ -174,7 +174,7 @@
       "2026-04-06": 727,
       "2026-04-05": 1078,
       "2026-04-04": 803,
-      "2026-04-03": 163
+      "2026-04-03": 81
     }
   },
   {
