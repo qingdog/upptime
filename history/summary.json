@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 297,
-    "timeDay": 61,
+    "timeDay": 104,
     "timeWeek": 124,
-    "timeMonth": 114,
+    "timeMonth": 113,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2025-12-28": 15,
@@ -36,9 +36,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.43%",
     "time": 2065,
-    "timeDay": 1661,
-    "timeWeek": 1793,
-    "timeMonth": 1795,
+    "timeDay": 1767,
+    "timeWeek": 1828,
+    "timeMonth": 1790,
     "timeYear": 2020,
     "dailyMinutesDown": {
       "2026-05-08": 107,
@@ -130,17 +130,17 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://github.com/favicon.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "34.32%",
+    "uptimeDay": "34.51%",
     "uptimeWeek": "29.28%",
-    "uptimeMonth": "22.55%",
-    "uptimeYear": "92.79%",
+    "uptimeMonth": "22.64%",
+    "uptimeYear": "92.81%",
     "time": 373,
-    "timeDay": 196,
-    "timeWeek": 259,
-    "timeMonth": 282,
-    "timeYear": 376,
+    "timeDay": 210,
+    "timeWeek": 260,
+    "timeMonth": 280,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2026-05-12": 935,
       "2026-05-11": 993,
@@ -177,7 +177,7 @@
       "2026-04-10": 562,
       "2026-04-09": 690,
       "2026-04-08": 995,
-      "2026-04-07": 134
+      "2026-04-07": 70
     }
   },
   {
@@ -192,8 +192,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 2,
-    "timeWeek": 5,
+    "timeDay": 11,
+    "timeWeek": 6,
     "timeMonth": 6,
     "timeYear": 5,
     "dailyMinutesDown": {}
@@ -210,9 +210,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2423,
-    "timeDay": 1941,
-    "timeWeek": 2255,
-    "timeMonth": 2550,
+    "timeDay": 2206,
+    "timeWeek": 2305,
+    "timeMonth": 2516,
     "timeYear": 2429,
     "dailyMinutesDown": {}
   },
@@ -227,11 +227,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 542,
-    "timeDay": 792,
-    "timeWeek": 614,
-    "timeMonth": 523,
-    "timeYear": 547,
+    "time": 543,
+    "timeDay": 676,
+    "timeWeek": 607,
+    "timeMonth": 530,
+    "timeYear": 546,
     "dailyMinutesDown": {
       "2025-05-24": 32
     }
@@ -248,9 +248,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 74,
-    "timeDay": 215,
-    "timeWeek": 147,
-    "timeMonth": 106,
+    "timeDay": 173,
+    "timeWeek": 160,
+    "timeMonth": 110,
     "timeYear": 84,
     "dailyMinutesDown": {
       "2025-05-24": 32
